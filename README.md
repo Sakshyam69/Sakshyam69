@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sakshyam Timsina and I'm currently a Student from Itahari International College. I am from Biratnagar, Nepal.</h2>
+<h2 align="left">Hi 👋! My name is Sakshyam Timsina and I'm currently a Student. I am from Biratnagar, Nepal.</h2>
 
 ###
 
